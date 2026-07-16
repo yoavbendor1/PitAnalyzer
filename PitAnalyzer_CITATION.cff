@@ -1,10 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: "YourLastName"
-    given-names: "YourFirstName"
-    orcid: "https://orcid.org"
-title: "Your Project Title"
+  - family-names: "Ben-Dor"
+    given-names: "Elad"
+    orcid: "https://orcid.org/0009-0006-6414-9519"
+	
+  - family-names: "Ben Dor"
+    given-names: "Yoav"
+    orcid: "https://orcid.org/0000-0002-5345-0297"
+	
+title: "PitAnalyzer, a standalone program for analyzing pit morphology"
 version: 1.0.0
 date-released: 2026-07-15
-url: "https://github.com"
+url: "https://github.com/yoavbendor1/PitAnalyzer"
